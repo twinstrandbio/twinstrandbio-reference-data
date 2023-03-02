@@ -1,0 +1,87 @@
+@HD	VN:1.6	SO:coordinate
+@SQ	SN:chr1	LN:195471971	M5:c4ec915e7348d42648eefc1534b71c99	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr2	LN:182113224	M5:fe020a692e23f8468b376e14e304a10f	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr3	LN:160039680	M5:50f9385167e70825931231ddf1181b80	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr4	LN:156508116	M5:e7bdfb3ce7f54d2720b0718ed2ea063c	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr5	LN:151834684	M5:095f3d4ebe1f0bafff057cc9b130186d	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr6	LN:149736546	M5:62628d042ea5e01adff5b481d23def67	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr7	LN:145441459	M5:65da9ab01a76dcbcaef6f32a753585c1	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr8	LN:129401213	M5:dd2d079a37c02e8a3f95abff9e37ac69	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr9	LN:124595110	M5:ef8a85e56b750c10568656361fac7990	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr10	LN:130694993	M5:7831ecda5dd6bcf838e2452ea0139eac	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr11	LN:122082543	M5:e168c7a3194813f597181f26bb1bd13f	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr12	LN:120129022	M5:671f85bb54a6e097d631e2e2dd813ad4	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr13	LN:120421639	M5:7f9b9fa3fbd9a38634107dfdc7fd8dc8	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr14	LN:124902244	M5:bf4e1efa25a8fd23b41c91f9bcb86388	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr15	LN:104043685	M5:106358dace00e5825ae337c1f1821b5e	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr16	LN:98207768	M5:5482110a6cedd3558272325eee4c5a17	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr17	LN:94987271	M5:0d21e8edbfcd8410523b2b94e6dae892	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr18	LN:90702639	M5:46fda2f7e6dbf91bff91d6703e004afb	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr19	LN:61431566	M5:7d363594531514ce41dfacfd97bc995d	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrX	LN:171031299	M5:b3db6d6da78d5268688ee395c2c8cb4a	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrY	LN:91744698	M5:837a35bcca18643d030d4eec5e5b9c64	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrM	LN:16299	M5:11c8af2a2528b25f2c080ab7da42edda	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr1_GL456210_random	LN:169725	M5:0cc560d98f9f22f4385397db82e1c108	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr1_GL456211_random	LN:241735	M5:36e85680c669756c9a1554cf31c9de03	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr1_GL456212_random	LN:153618	M5:4c4dc3bfe987e3bc4ef4756bef269373	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr1_GL456213_random	LN:39340	M5:d4cb9051fe171205dd39980e110bf63e	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr1_GL456221_random	LN:206961	M5:e21da65d7276b256b8edf92660a928b0	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr4_GL456216_random	LN:66673	M5:7960016dce00dda7d58501e8f5799ec4	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr4_GL456350_random	LN:227966	M5:5749f57d6c9e7ffbb4f82294d28598ba	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr4_JH584292_random	LN:14945	M5:c2ff41899e0f684fd93b28c58756e02f	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr4_JH584293_random	LN:207968	M5:dcd15cdff49363080fd1a719fd03d69b	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr4_JH584294_random	LN:191905	M5:6c5948764eea003ab2f734ecd1f8295f	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr4_JH584295_random	LN:1976	M5:ebc2f8438cbd080b53dc1cf528bf070e	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr5_GL456354_random	LN:195993	M5:61643b629b3105fd2f32cc82871ca8e0	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr5_JH584296_random	LN:199368	M5:9b5b5f3af54ac1c2e91964a2c8b3f9ee	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr5_JH584297_random	LN:205776	M5:efb1b00ffad6dd710ffd5d46ce94a25c	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr5_JH584298_random	LN:184189	M5:1910644b4393b414d16774d3a1b73c49	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr5_JH584299_random	LN:953012	M5:b6bc88bfe26ef155b5fe2a7b90830ca5	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chr7_GL456219_random	LN:175968	M5:a9a02958a866bdbde864f45dba4678e9	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrX_GL456233_random	LN:336933	M5:1b14d77365ac1eacc926e85c70290ff2	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrY_JH584300_random	LN:182347	M5:63017c95f5328b37975b41ca1019ae14	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrY_JH584301_random	LN:259875	M5:6b2fb727b7f71259d4b2aa53f921f83e	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrY_JH584302_random	LN:155838	M5:8265ab6c29db6b3f7edbd3d0bf9f6649	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrY_JH584303_random	LN:158099	M5:23d8b4c1dbfa3cc96e2e2d5f56914a31	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456239	LN:40056	M5:026a56195f744bfc337bd35c5c406ca3	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456359	LN:22974	M5:603a636ed64b91e321f4016e95496e2e	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456360	LN:31704	M5:e920aab56a78dad48b143260fdd46def	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456366	LN:47073	M5:5a13a662666e5216edc9777123a90721	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456367	LN:42057	M5:c515676047df349605e1f0b9a2c931e2	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456368	LN:20208	M5:aafc72058b568c532611be3ed4de1421	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456370	LN:26764	M5:b1497fc4d9c50793ce42287b807023a6	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456372	LN:28664	M5:63d6c279d38036a35a614ebf3b5aff04	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456378	LN:31602	M5:f2e4730a3ebda87af4e300991b5b1fdd	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456379	LN:72385	M5:2e317d895c77ed23c1ead5d964787944	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456381	LN:25871	M5:cd52161045aaf547b16aa269806d0fa2	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456382	LN:23158	M5:0a6e2bdf8e33bbcf41a1f22d28b31040	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456383	LN:38659	M5:957a72650aef5448bb88d22c95091a3f	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456385	LN:35240	M5:14d999bf71d97ab109e0d120421813e1	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456387	LN:24685	M5:ee8d8a56353bfd1e03794413a6de4790	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456389	LN:28772	M5:33a8ae4e638372e6786e2139b868c9de	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456390	LN:24668	M5:98ab2165ef0892fb13b2826abef47f28	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456392	LN:23629	M5:4a6c8910adf1323d66f179e7b22c12b3	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456393	LN:55711	M5:0f861037bc40b8267048c9d0c6b50db8	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456394	LN:24323	M5:d2fc329384f30769e5bb8e9e5547f88b	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_GL456396	LN:21240	M5:00bc9e8162a01525c883724d0f152c3a	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+@SQ	SN:chrUn_JH584304	LN:114452	M5:3da6902c6bfae6e54184fe309460b5ce	AS:mm10	UR:http://hgdownload.cse.ucsc.edu/goldenPath/mm10/bigZips/mm10.2bit	SP:Mus musculus
+chr1	69304218	69306617	+	region_330
+chr1	155235939	155238338	+	region_865
+chr2	50833176	50835575	+	region_4547
+chr3	109633161	109635560	+	region_9512
+chr4	96825281	96827680	+	region_10232
+chr5	18210613	18213012	+	region_10827
+chr6	119170707	119173106	+	region_12380
+chr7	142683054	142685453	+	region_13449
+chr8	43954522	43956921	+	region_7880
+chr9	28648073	28650472	+	region_14467
+chr10	21442015	21444414	+	region_1200
+chr11	37934365	37936764	+	region_1958
+chr12	80601543	80603942	+	region_3031
+chr13	74030072	74032471	+	region_3787
+chr14	13076172	13078571	+	region_4062
+chr15	66779763	66782162	+	region_4965
+chr16	72381581	72383980	+	region_5855
+chr17	94009029	94011428	+	region_6613
+chr18	81262079	81264478	+	region_7104
+chr19	4618814	4621213	+	region_7180
