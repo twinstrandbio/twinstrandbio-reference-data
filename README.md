@@ -1,7 +1,7 @@
 # TwinStrand Biosciences® Reference Data
 
-TwinStrand Biosciences® maintains open source reference data for TwinStrand Duplex Sequencing® assays in this repository.
-The reference data stored within this repository is intended for Reserarch Use Only and not for use in diagnostic procedures.
+TwinStrand Biosciences maintains open source reference data for TwinStrand DuplexSeq™ assays in this repository.
+The reference data stored within this repository is intended for Research Use Only and not for use in diagnostic procedures.
 
 These files are also accessible for customers at the [TwinStrand Customer Portal](https://customer.twinstrandbio.com).
 
