@@ -3,7 +3,7 @@
 TwinStrand Biosciences maintains open source reference data for TwinStrand DuplexSeq™ assays in this repository.
 The reference data stored within this repository is intended for Research Use Only and not for use in diagnostic procedures.
 
-These files are also accessible for customers at the [TwinStrand Customer Portal](https://customer.twinstrandbio.com).
+These files are also accessible for customers at the [TwinStrand® Customer Portal](https://customer.twinstrandbio.com).
 
 ## Interval Sets
 
